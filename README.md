@@ -23,5 +23,3 @@
 2. Change directory to baristaApp folder
 2. Run `node server.js`
 3. In Browser, navigate to `localhost:8080`
-# baristaApp
-# baristaApp
